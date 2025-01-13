@@ -64,14 +64,14 @@ You can simply visit the link [https://notemindai.onrender.com/][project-app].
 
 ## Features
 
-- **User Authentication:** SynthNote ensures the security of your information with robust user authentication processes. Secure signup, login, and controlled API request for the user are the bedrock of our commitment to data privacy and security.
-- **Summarize Content with AI:** Cut through the noise with AI-driven summarization capabilities. SynthNote analyzes lengthy notes and presents concise, accurate summaries, enabling you to grasp key points quickly and efficiently.
-- **Item Extraction with AI:** Transform your notes into action with our intelligent item extraction feature. SynthNote automatically identifies and converts action points in your notes into tasks or reminders, streamlining your workflow and ensuring nothing gets missed.
-- **Continue Writing with AI:** Eliminate writer's block with the continue writing feature powered by AI. SynthNote offers intelligent writing suggestions, helping you to seamlessly continue your thoughts and ideas, fostering a fluid and natural writing experience.
-- **Explain Content with AI:** Deepen your understanding of complex topics with AI-powered explanations. SynthNote can elucidate difficult concepts within your notes, offering clear and concise explanations and enhancing your learning process.
-- **Sentiment Analysis with AI:** Gauge the tone and mood of your notes with AI-driven sentiment analysis. SynthNote evaluates the sentiment of your text, providing insights into the emotional undertone, which is invaluable for personal reflections or analyzing feedback.
-- **Note Management:** SynthNote offers a comprehensive solution for creating, editing, deleting, and categorizing notes with rich text formatting. Whether you're jotting down a quick idea or drafting a detailed report, our platform adapts to your needs.
-- **Search and Filter:** Find the information you need, when you need it. With robust search and filter capabilities, SynthNote makes navigating through your notes effortless, saving you time and enhancing your productivity.
+- **User Authentication:** NoteMind ensures the security of your information with robust user authentication processes. Secure signup, login, and controlled API request for the user are the bedrock of our commitment to data privacy and security.
+- **Summarize Content with AI:** Cut through the noise with AI-driven summarization capabilities. NoteMind analyzes lengthy notes and presents concise, accurate summaries, enabling you to grasp key points quickly and efficiently.
+- **Item Extraction with AI:** Transform your notes into action with our intelligent item extraction feature. NoteMind automatically identifies and converts action points in your notes into tasks or reminders, streamlining your workflow and ensuring nothing gets missed.
+- **Continue Writing with AI:** Eliminate writer's block with the continue writing feature powered by AI. NoteMind offers intelligent writing suggestions, helping you to seamlessly continue your thoughts and ideas, fostering a fluid and natural writing experience.
+- **Explain Content with AI:** Deepen your understanding of complex topics with AI-powered explanations. NoteMind can elucidate difficult concepts within your notes, offering clear and concise explanations and enhancing your learning process.
+- **Sentiment Analysis with AI:** Gauge the tone and mood of your notes with AI-driven sentiment analysis. NoteMind evaluates the sentiment of your text, providing insights into the emotional undertone, which is invaluable for personal reflections or analyzing feedback.
+- **Note Management:** NoteMind offers a comprehensive solution for creating, editing, deleting, and categorizing notes with rich text formatting. Whether you're jotting down a quick idea or drafting a detailed report, our platform adapts to your needs.
+- **Search and Filter:** Find the information you need, when you need it. With robust search and filter capabilities, NoteMind makes navigating through your notes effortless, saving you time and enhancing your productivity.
 
 These features collectively make NoteMindAI a powerful tool for anyone looking to enhance their productivity, learning, and collaboration through note-taking. By leveraging AI, NoteMindAI not only simplifies note management but also adds layers of intelligence that augment the user's capability to create, analyze, and share knowledge.
 
