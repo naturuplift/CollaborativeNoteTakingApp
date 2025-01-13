@@ -24,7 +24,7 @@ async function summarizeText(text) {
             // define openai model API Endpoint https://api.openai.com/v1/completions
             // ID of the model to use. See the model endpoint compatibility table
             // for details on which models work with the Chat API.
-            model: "gpt-3.5-turbo",
+            model: "gpt-4",
             // define the system message which helps set the behavior of the assistant
             messages: [
                 {
